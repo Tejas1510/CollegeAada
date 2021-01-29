@@ -21,10 +21,10 @@ ability
 
 <center><h1 align="center">Technologies Used</h1></center>
 <p align="center">
-<img src = "https://github.com/Tejas1510/CollegeAada/blob/master/Images/react1.png"></img>
-<img src = "https://github.com/Tejas1510/CollegeAada/blob/masterImages/nodejs.png"></img>
-<img src = "https://github.com/Tejas1510/CollegeAada/blob/masterImages/express.png"></img>
-<img src = "https://github.com/Tejas1510/CollegeAada/blob/masterImages/mongo.png"></img>
+<img src = "https://github.com/Tejas1510/CollegeAada/blob/main/Images/react1.png"></img>
+<img src = "https://github.com/Tejas1510/CollegeAada/blob/main/Images/nodejs.png"></img>
+<img src = "https://github.com/Tejas1510/CollegeAada/blob/main/Images/express.png"></img>
+<img src = "https://github.com/Tejas1510/CollegeAada/blob/main/Images/mongo.png"></img>
 </p>
 
 <p align="center" margin="10px">
@@ -129,7 +129,7 @@ if you have cloned this repo, then open git in this directory and use
 
 ### This Project is a part of the following Open Source Program
 
-<img src ="https://github.com/Tejas1510/CollegeAada/blob/master/Images/cwoc.png" alt ="Cross Winter of Code"></img>
+<img src ="https://github.com/Tejas1510/CollegeAada/blob/main/Images/cwoc.png" alt ="Cross Winter of Code"></img>
 
 ## ⭐ Issues:
 For major changes, you are welcomed to open an issue and discuss what you would like to contribute. Enhancements will be appreciated.
