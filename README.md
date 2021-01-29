@@ -28,8 +28,8 @@ ability
 </p>
 
 <p align="center" margin="10px">
-<img margin="10px" align="center" src = "https://github.com/Tejas1510/CollegeAada/blob/master/Images/netlify.png"></img>
-<img align="center" src = "https://github.com/Tejas1510/CollegeAada/blob/master/Images/heroku.png"></img>
+<img margin="10px" align="center" src = "https://github.com/Tejas1510/CollegeAada/blob/main/Images/netlify.png"></img>
+<img align="center" src = "https://github.com/Tejas1510/CollegeAada/blob/main/Images/heroku.png"></img>
 </p>
 
 ## ⭐ Getting Started
