@@ -1,6 +1,6 @@
 ![CollegeAada](https://socialify.git.ci/Tejas1510/CollegeAada/image?description=1&forks=1&issues=1&language=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark)
 
-## 📢 Join Discord channel for Discussion about the project : [CollegeAada](https://discord.gg/pQbVQqu7)
+## 📢 Join Slack channel for Discussion about the project : [CollegeAada](https://join.slack.com/t/rknecworkspace/shared_invite/zt-m1yqj68k-tsZYt_rHP4_I22gV~kFhYQ)
 
 ## 📌 Motive of the Project
 
