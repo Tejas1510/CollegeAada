@@ -1,4 +1,3 @@
-//import logo from './logo.svg';
 import './App.css';
 import Header from './components/header';
 import Doubt from './components/doubt_sharing';

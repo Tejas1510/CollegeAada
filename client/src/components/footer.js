@@ -1,15 +1,15 @@
-import React from 'react';
-import {makeStyles} from '@material-ui/core/styles';
-import AppBar from '@material-ui/core/AppBar';
-import Toolbar from '@material-ui/core/Toolbar';
+import React from "react";
+import {makeStyles} from "@material-ui/core/styles";
+import AppBar from "@material-ui/core/AppBar";
+import Toolbar from "@material-ui/core/Toolbar";
  
 const useStyles = makeStyles({
     footer: {
         backgroundColor: "#ffab73",
-        display: "flex",
-        flexDirection: "column",
         alignItems: "center",
         color: "white",
+        position: "fixed",
+        bottom: "0",
     },
 });
 
