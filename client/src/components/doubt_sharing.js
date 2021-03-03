@@ -1,12 +1,12 @@
-import React, {useState} from 'react';
-import {BrowserRouter as Router, Switch, Route} from 'react-router-dom';
-import {makeStyles} from '@material-ui/core/styles';
-import Grid from '@material-ui/core/Grid';
-import Home from './home';
+import React, {useState} from "react";
+import {BrowserRouter as Router, Switch, Route} from "react-router-dom";
+import {makeStyles} from "@material-ui/core/styles";
+import Grid from "@material-ui/core/Grid";
+import Home from "./home";
 import MyQuestions from "./my_questions";
-import Question from './question';
-import Login from './login';
-import SignUp from './signup';
+import Question from "./question";
+import Login from "./login";
+import SignUp from "./signup";
 import AddQuestion from "./add_question";
 import {getSessionCookie} from "./session_manager";
 
