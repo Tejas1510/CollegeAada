@@ -6,10 +6,10 @@ import Toolbar from '@material-ui/core/Toolbar';
 const useStyles = makeStyles({
     footer: {
         backgroundColor: "#ffab73",
-        display: "flex",
-        flexDirection: "column",
         alignItems: "center",
         color: "white",
+        position: "fixed",
+        bottom: "0",
     },
 });
 
