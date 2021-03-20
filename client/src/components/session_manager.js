@@ -2,7 +2,7 @@ import Cookies from "js-cookie";
 
 function getSessionCookie() {
     const sessionCookie = Cookies.get("session");
-    if(sessionCookie) {
+    if(sessionCookie && sessionCookie != "undefined") {
         return JSON.parse(sessionCookie);
     } else {
         return undefined;
